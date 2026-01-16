@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+img {
+	
+    width: auto;
+    margin-right: 0px;
+    position: static;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+body {
+    background-color: #F0D799;
+    color: #675910;
+    top: auto;
+}
+h1 {
+    color: #FF0004;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}
+h2 {
+    color: #FFFFFF;
+    font-size: 47.3453px;
+    font-style: italic;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.principal {
+    float: left;
+    width: 800px;
+    height: 500px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+}
+table {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
